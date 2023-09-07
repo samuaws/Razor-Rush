@@ -1,0 +1,6 @@
+- 9bayel collision
+- 9bayel ragdoll
+- map generation
+- score calculation
+- animations
+- UI
